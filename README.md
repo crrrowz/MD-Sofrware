@@ -19,3 +19,9 @@ The bot is **private by design**, meaning it only responds to the owner’s user
 </td>
 </tr>
 </table>
+
+<p align="center">
+  <a href="https://github.com/crrrowz/MD-Sofrware/releases/tag/v1.0" target="_blank">
+    🖥️ Download Windows Version V1
+  </a>
+</p>
