@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td width="40%" align="center">
-  <img src="https://github.com/crrrowz/MD-Sofrware/blob/main/app.png?raw=true" width="300" />
+  <img src="https://github.com/crrrowz/MD-Sofrware/blob/main/README/app.png?raw=true" width="300" />
 </td>
 <td width="60%" valign="middle">
 
