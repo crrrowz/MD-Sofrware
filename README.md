@@ -1,7 +1,7 @@
 # بوت الماركداون للقنوات (Markdown Channel Bot)
 
 <a href="#" target="_blank" rel="noreferrer">
-  <img align="center" width="1000" src="https://github.com/crrrowz/MD-Sofrware/blob/main/app.png?raw=true" />
+  <img align="center" width="500" src="https://github.com/crrrowz/MD-Sofrware/blob/main/app.png?raw=true" />
 </a>
 
 هذا بوت تليجرام بسيط وآمن، تم برمجته بلغة **بايثون**، وظيفته استقبال رسائل نصية منسقة بصيغة **ماركداون (Markdown)**، تحويلها إلى **HTML**، ثم إعادة إرسالها إلى قناة تليجرام محددة.
